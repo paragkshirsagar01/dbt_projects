@@ -1,0 +1,1 @@
+select sal_fract from {{ref("my_first_dbt_model")}}
